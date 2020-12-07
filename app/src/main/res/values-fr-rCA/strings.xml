@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Maître des tickets</string>
+    <string name="favorite">Favorite</string>
+    <string name="help">Aidez-moi</string>
+    <string name="btn_search">Search</string>
+    <string name="home">Chercher</string>
+    <string name="event">Événements</string>
+    <string name="event_details">Détails de l\'évènement</string>
+    <string name="help_home">Pour rechercher un événement, tapez le nom de la ville et cliquez sur le bouton de recherche.</string>
+    <string name="help_fevorite">Afficher tous vos événements préférés</string>
+    <string name="help_event_detail">Afficher tous les détails de l\'événement et si vous enregistrez l\'événement, cliquez sur le bouton Enregistrer pour enregistrer l\'image</string>
+    <string name="help_event">Cette interface vous montre la liste des événements qui se produisent en ville</string>
+    <string name="help_title">Comment utiliser cette interface?</string>
+    <string name="event_detail_button">Ajouter aux Favoris</string>
+</resources>

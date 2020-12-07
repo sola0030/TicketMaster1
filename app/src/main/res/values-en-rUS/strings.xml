@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ticket Master</string>
+    <string name="favorite">Favorite</string>
+    <string name="help">Help</string>
+    <string name="btn_search">Search</string>
+    <string name="home">Home</string>
+    <string name="event">Events</string>
+    <string name="event_details">Event Details</string>
+    <string name="help_home">To search an events type name of the city and click search button.</string>
+    <string name="help_fevorite">Show All your Favorite Events</string>
+    <string name="help_event_detail">Show All the details of event and if you save the event click on save button for saving Image</string>
+    <string name="help_event">This interface show you the List of the events occurs in city</string>
+    <string name="help_title">How to use this interface?</string>
+    <string name="event_detail_button">Add to Favorite</string>
+</resources>
